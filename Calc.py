@@ -10,7 +10,7 @@ print("Operations are +,-,*,/");
 c=input("Enter any operation");
 
 if c=="+":
-    print(a,"-",b,"=",a+b)
+    print(a,"+",b,"=",a+b)
     print("Thanks for using this Calculator..")
     
 elif c=="-":
