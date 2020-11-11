@@ -2,8 +2,8 @@ print("Calculator");
 print
 print("Scripted by Andros");
 
-a=int(input("Enter 1st number:"))
-b=int(input("Enter second number"))
+a=float(input("Enter 1st number:"))
+b=float(input("Enter second number"))
 
 print("Operations are +,-,*,/");
 
