@@ -1,6 +1,6 @@
 print("Calculator");
 print
-print("Scripted by Andros");
+print("Scripted by HMAndro");
 
 a=float(input("Enter 1st number:"))
 b=float(input("Enter second number"))
